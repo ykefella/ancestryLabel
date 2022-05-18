@@ -15,6 +15,5 @@ Inside the ancestryLabel folder [`python3 scripts/run_vcf_plink_filter.py`] and 
 
 ## Tools need to run the analysis
 - [VCFtools](https://vcftools.github.io/man_latest.html)
-- [bcftools](https://samtools.github.io/bcftools/bcftools.html#head)
 - [plink2](https://www.cog-genomics.org/plink/2.0/)
-- [vcflib](https://github.com/vcflib/vcflib)
+
